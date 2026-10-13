@@ -1,0 +1,4 @@
+"hello welcome to the python programming's file handling"
+"To handle the file means perform all the operations like read,write ,append,delete,rename etc.
+"Learning all this concept combined file handling"
+hello

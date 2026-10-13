@@ -1,0 +1,5 @@
+f=open("vowel.txt","r")
+content=f.read()
+words=content.split()
+print("Total words:",len(words))
+f.close()

@@ -1,0 +1,5 @@
+f=open("vowel.txt","r")
+lines=f.readlines()
+print("Total number of lines",len(lines))
+print("2nd line:",lines[1])
+print("4 th line content:",lines[3])
